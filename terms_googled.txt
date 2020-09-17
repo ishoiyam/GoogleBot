@@ -1,0 +1,4 @@
+https://skillcrush.com/blog/what-is-python-used-for
+https://www.geeksforgeeks.org/writing-to-file-in-python/
+https://www.quora.com/Is-there-a-way-to-automate-a-Google-search
+https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747
